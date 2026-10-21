@@ -1,0 +1,6 @@
+{
+  "name": "Baroc Hotel - Digital QR Restaurant Menu",
+  "description": "Interactive mobile-first digital restaurant menu for Baroc Hotel featuring bilingual Amharic & English catalog, ETB pricing, order tray, QR code generator, and printable table tent cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
